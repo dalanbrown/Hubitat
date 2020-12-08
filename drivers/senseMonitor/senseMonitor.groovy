@@ -15,6 +15,11 @@
  *  Author: Alan Brown
  *
  *  Date: 2020-12-02
+ *
+ * Credit where credit is due. This is derived from the node.js code https://github.com/brbeaird/sense-energy-node
+ * Removing the need for a linux node server in this implementation
+ * So far focussed on trying to to gather and store data from the https and web socket interfaces.
+ *
  */
 def driverVer() { return "0.0.3" }
 
